@@ -44,7 +44,7 @@ class Resume extends Component {
               schoolName="Alphatraining"
               schoolDescription=
               {[
-                "Weiterbildung : Javascript  / Moderne Javascript Frameworks (Angular,React) / Python. ", 
+                "Weiterbildung! : Javascript  / Moderne Javascript Frameworks (Angular,React) / Python. ", 
                 <ul>
                   <li><b>Projekte:</b></li>
                   <li style={{listStyleType:'none'}}>
