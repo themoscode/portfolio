@@ -19,7 +19,7 @@ class Landing extends Component {
 
                 <hr/>
 
-                <p>HTML5/CSS3 | Bootstrap | JavaScript | React | Angular | AngularJS | NodeJS </p>
+                <p>HTML5/CSS3 | Bootstrap | JavaScript | React | Angular | NodeJS </p>
 
                 <div className="social-links">
 
